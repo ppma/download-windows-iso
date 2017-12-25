@@ -5,7 +5,7 @@
 // @updateURL      https://github.com/ppma/download-windows-iso/raw/master/key.user.js
 // @downloadURL    https://github.com/ppma/download-windows-iso/raw/master/key.user.js
 // @license        GPL version 3
-// @include        *://www.microsoft.com/*/software-download/windows*
+// @include        https://www.microsoft.com/*/software-download/windows*
 // @run-at         document-start
 // @version 17.12.25
 // ==/UserScript==
