@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           mmp zz
+// @name           windows iso
 // @author         ppma
 // @description    # download-windows-iso;在微软官网下载windows iso镜像
 // @updateURL      https://github.com/ppma/download-windows-iso/raw/master/key.user.js
