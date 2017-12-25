@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name           去除云管家
-// @author         ted423
+// @name           windowsiso
+// @author         ppma
 // @description    # download-windows-iso;在微软官网下载windows iso镜像
-// @namespace	   https://github.com/ppma/download-windows-iso/blob/master/test.js
+// @namespace	   https://github.com/ppma/download-windows-iso/raw/master/user.js
 // @license        GPL version 3
 // @include        https://www.microsoft.com/*/software-download/windows*
 // @run-at         document-start
