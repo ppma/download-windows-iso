@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name           windows iso
 // @author         ppma
-// @description    # download-windows-iso;在微软官网下载windows iso镜像
-// @updateURL      https://github.com/ppma/download-windows-iso/raw/master/key.user.js
-// @downloadURL    https://github.com/ppma/download-windows-iso/raw/master/key.user.js
+// @description    在微软官网下载windows iso镜像
 // @license        GPL version 3
-// @include        https://www.microsoft.com/*/software-download/windows*
+// @match          https://www.microsoft.com/zh-cn/software-download/windows*
 // @run-at         document-start
 // @version 17.12.25
 // ==/UserScript==
