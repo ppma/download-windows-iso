@@ -2,7 +2,7 @@
 // @name           去除云管家
 // @author         ted423
 // @description    # download-windows-iso;在微软官网下载windows iso镜像
-// @namespace	https://greasyfork.org/users/85
+// @namespace	   https://github.com/ppma/download-windows-iso/blob/master/test.js
 // @license        GPL version 3
 // @include        https://www.microsoft.com/*/software-download/windows*
 // @run-at         document-start
