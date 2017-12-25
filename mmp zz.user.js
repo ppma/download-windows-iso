@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name           windowsiso
+// @name           mmp zz
 // @author         ppma
 // @description    # download-windows-iso;在微软官网下载windows iso镜像
-// @namespace	   https://github.com/ppma/download-windows-iso/raw/master/mmp%20%user.js
+// @updateURL      https://github.com/ppma/download-windows-iso/raw/master/mmpzz.user.js
+// @downloadURL    https://github.com/ppma/download-windows-iso/raw/master/mmpzz.user.js
 // @license        GPL version 3
 // @include        https://www.microsoft.com/*/software-download/windows*
 // @run-at         document-start
